@@ -1,9 +1,9 @@
-# <%= title %> Format
+# SPARKLE Training Template
 
 ## Installing
 
 ```bash
-quarto use template spectrum-spark/<%= filesafename %>
+quarto use template spectrum-spark/training
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your piece of training material
